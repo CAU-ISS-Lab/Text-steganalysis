@@ -8,8 +8,5 @@
 #### ARTS is published on EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (24'ECAI) [(paper link)](https://openreview.net/forum?id=TYqfRoOdJn)
 #### LS-FAT is published on IEEE Transactions on Depetable and Secure Computing (2025.01) [(paper link）](https://ieeexplore.ieee.org/abstract/document/10849805)
 
-<div style="color:green;">
-  这是绿色的文字。
-</div>
 
 ### If you have any questions, please contact us immediately by the e-mail(cau_iss@163.com)
