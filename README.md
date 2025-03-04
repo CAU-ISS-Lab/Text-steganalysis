@@ -5,7 +5,7 @@
 #### HiDuNet is published on IEEE/ACM Transactions on Audio, Speech, and Language Processing [(paper link)](https://ieeexplore.ieee.org/abstract/document/10268497)
 #### SANet is published on IEEE Transactions on Information Forensics and Security [(paper link)](https://ieeexplore.ieee.org/abstract/document/10299660/)
 #### SDCNet is published on  Chinese Journal of Electronics [(paper link)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10038789)
-#### ARTS is published on EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (ECAI, 2024) [(paper link)](file:///Users/polly/Downloads/FAIA-392-FAIA240698.pdf)
+#### ARTS is published on EUROPEAN CONFERENCE ON ARTIFICIAL INTELLIGENCE (ECAI, 2024) [(paper link)]([file:///Users/polly/Downloads/FAIA-392-FAIA240698.pdf](https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA240698))
 
 #### If you have any questions, please contact us immediately by the e-mail(cau_iss@163.com)
 
