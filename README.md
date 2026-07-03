@@ -14,10 +14,12 @@
 #### LS-FAT is published on IEEE Transactions on Depetable and Secure Computing (2025.01) [(paper link）](https://ieeexplore.ieee.org/abstract/document/10849805)
 #### TTALS is published on IEEE Signal Processing Letters (2024.07) [(paper link）](https://ieeexplore.ieee.org/abstract/document/10582504)
 #### SALT-LS is published on ACM International Conference on Information and Knowledge Management (CIKM) (2025.08)
+#### AGTTA is published on ACM International workshop on Information Hiding and Multimedia Security (ACM IH&MMSec) (2026.02)
 
 
 ## Data Link (Google 云盘）
-#### https://drive.google.com/drive/folders/1c8_1jKihhHLsfSgh8nSZDy3eGOHfSt6w?usp=sharing
+#### https://drive.google.com/drive/folders/1c8_1jKihhHLsfSgh8nSZDy3eGOHfSt6w?usp=shar
+ing
 
 ## One more things...
 #### If you have any questions, please contact us immediately by the e-mail(cau_iss@163.com)
